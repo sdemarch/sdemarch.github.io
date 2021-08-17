@@ -9,3 +9,5 @@ citation: 'S. Demarchi, M. Menapace and Armando Tacchella (2019),
           &quot;Automating elevator design with Satisfiability Modulo Theories.&quot;
           <i>in IEEE International Conference on Tools with Artificial Intelligence,
           ICTAI 2019, Portland, Oregon, November 4-6, 2019, Proceedings, 2019.</i>.'
+
+ICTAI

@@ -9,3 +9,5 @@ citation: 'S. Demarchi (2019),
           &quot;Automated Design of Complex Systems with Constraint Programming Techniques.&quot;
           <i>in Cyber-Physical Systems Summer School Workshop, CPSWS 2019, Alghero, Italy,
           September 23, 2019, Proceedings, 2019.</i>.'
+
+CPS Workshop
