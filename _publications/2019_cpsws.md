@@ -10,3 +10,5 @@ citation: 'S. Demarchi (2019),
           <i>in Cyber-Physical Systems Summer School Workshop, CPSWS 2019, Alghero, Italy,
           September 23, 2019, Proceedings, 2019.</i>.'
 ---
+
+Starting from a success story in elevator systems design, we try and use SMT as a mean to enable domain-agnostic system configuration.
