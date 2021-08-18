@@ -11,7 +11,7 @@ redirect_from:
 
 PhD student in Computer Science
 
-M.Sc. in Computer Engineering | M.Sc. in Complex System in Interaction (double degree programme)
+M.Sc. in Computer Engineering - M.Sc. in Complex System in Interaction (double degree programme)
 
 ========
 
