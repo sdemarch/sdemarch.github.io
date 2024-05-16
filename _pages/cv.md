@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-PhD student in Computer Science
+Post-doc researcher at University of Genova
+
+PhD in Computer Science
 
 M.Sc. in Computer Engineering\
 M.Sc. in Complex System in Interaction ([EMECIS](https://www.emecis.eu) double degree programme)
